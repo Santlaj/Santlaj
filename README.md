@@ -12,11 +12,11 @@
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/">
+<a href="https://www.linkedin.com/in/santlaj-kumar-mehta-23541a320/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Santlaj/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -50,27 +50,11 @@ Currently I'm working toward becoming a strong **Backend Software Engineer** whi
 
 ---
 
-# 🚀 Current Focus
-
-```text
-Backend Development          ███████████░░ 85%
-
-Data Structures & Algorithms ██████████░░░ 80%
-
-AI Engineering               ███████░░░░░░ 55%
-
-System Design                ██████░░░░░░░ 45%
-
-Open Source                  █████░░░░░░░░ 35%
-```
-
----
 
 # 🎯 2026 Goals
 
 - ✅ Reach 500+ LeetCode problems
 - ✅ Build production-grade backend projects
-- ✅ Master Spring Boot
 - ✅ Learn Docker & Kubernetes
 - ✅ Learn Redis
 - ✅ Learn AWS Cloud
@@ -124,7 +108,6 @@ A centralized educational platform helping students organize notes, assignments,
 
 # 🌱 Currently Learning
 
-- Spring Boot
 - Redis
 - Docker
 - Kubernetes
@@ -133,26 +116,6 @@ A centralized educational platform helping students organize notes, assignments,
 - LangGraph
 - MCP
 - RAG Applications
-
----
-
-# ⚡ Fun Facts
-
-- 💻 Backend is my favorite domain.
-- 🧩 I enjoy solving algorithmic challenges.
-- 🤖 AI fascinates me because of its real-world impact.
-- 📚 I believe learning never stops.
-- 🚀 My goal is to build products used by millions.
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
-
-</div>
 
 ---
 # 🛠️ Tech Stack
@@ -229,22 +192,6 @@ A centralized educational platform helping students organize notes, assignments,
 
 ---
 
-# 📊 Skills Overview
-
-| Category | Technologies |
-|-----------|--------------|
-| **Languages** | C++, Java, Python, JavaScript, TypeScript, SQL |
-| **Frontend** | HTML, CSS, Tailwind CSS, React, Next.js |
-| **Backend** | Node.js, Express.js, REST APIs, Authentication |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Prisma ORM |
-| **Authentication** | JWT, Better Auth, OAuth, Session Management |
-| **Version Control** | Git, GitHub |
-| **DevOps** | Docker, GitHub Actions, Vercel |
-| **Cloud** | AWS (Learning), Supabase, Firebase |
-| **AI** | Prompt Engineering, Agentic AI, RAG, LangGraph |
-| **CS Fundamentals** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
-
----
 
 # 🧠 Core Engineering Skills
 
@@ -258,58 +205,6 @@ A centralized educational platform helping students organize notes, assignments,
 | API Design | MongoDB | RAG | OS |
 | MVC Architecture | Supabase | MCP | CN |
 | Middleware | Redis *(Learning)* | LLM Applications | System Design |
-
-</div>
-
----
-
-# 📈 Knowledge Progress
-
-```text
-C++                         ████████████████████ 100%
-
-Java                        ███████████████░░░░ 80%
-
-JavaScript                  ██████████████░░░░░ 75%
-
-TypeScript                  ███████████░░░░░░░░ 60%
-
-Node.js                     ██████████████░░░░░ 75%
-
-Express.js                  ██████████████░░░░░ 75%
-
-PostgreSQL                  ████████████░░░░░░░ 65%
-
-Prisma ORM                  ███████████░░░░░░░░ 60%
-
-React                       ███████████░░░░░░░░ 60%
-
-Next.js                     █████████░░░░░░░░░░ 45%
-
-Spring Boot                 ██████░░░░░░░░░░░░░ 30%
-
-Docker                      █████░░░░░░░░░░░░░░ 25%
-
-AWS                         ███░░░░░░░░░░░░░░░░ 15%
-
-Agentic AI                  ████████░░░░░░░░░░░ 40%
-```
-
-> **Note:** This reflects my current learning journey and will evolve as I continue building real-world projects.
-
----
-
-# 🎯 Current Tech Focus
-
-<div align="center">
-
-| 🔥 Primary | 🚀 Learning | 📅 Next |
-|------------|-------------|---------|
-| Backend Development | Spring Boot | Microservices |
-| DSA | Docker | Kubernetes |
-| PostgreSQL | Redis | AWS |
-| Authentication | AI Agents | System Design |
-| TypeScript | LangGraph | Production AI Systems |
 
 </div>
 
@@ -354,39 +249,6 @@ Agentic AI                  ████████░░░░░░░░░�
 
 StackAudit is a backend-first platform built to simplify audit logging, authentication, authorization, and compliance tracking. The project emphasizes scalability, clean architecture, security, and maintainability.
 
----
-
-### 🏗️ Architecture
-
-```mermaid
-flowchart LR
-
-A[Client]
-
--->
-
-B[Next.js]
-
--->
-
-C[Express API]
-
--->
-
-D[Authentication]
-
--->
-
-E[Controllers]
-
--->
-
-F[Prisma ORM]
-
--->
-
-G[(PostgreSQL)]
-```
 
 ---
 
@@ -440,39 +302,6 @@ github.com/<YOUR_USERNAME>/StackAudit
 - Admin Dashboard
 - Secure APIs
 
----
-
-### Request Flow
-
-```mermaid
-flowchart LR
-
-User
-
--->
-
-Book
-
--->
-
-Server
-
--->
-
-Location Engine
-
--->
-
-Available Helpers
-
--->
-
-Nearest Helper
-
--->
-
-Booking Confirmed
-```
 
 ---
 
@@ -510,31 +339,6 @@ github.com/<YOUR_USERNAME>/SmartHelper
 - Resources
 - Progress Tracking
 
----
-
-### Architecture
-
-```mermaid
-flowchart LR
-
-Student
-
--->
-
-Frontend
-
--->
-
-Backend
-
--->
-
-Database
-
--->
-
-Analytics
-```
 
 ---
 
@@ -572,32 +376,6 @@ A reusable authentication module for backend applications.
 
 ---
 
-### Authentication Flow
-
-```mermaid
-flowchart LR
-
-Login
-
--->
-
-JWT
-
--->
-
-Protected Route
-
--->
-
-Refresh Token
-
--->
-
-Logout
-```
-
----
-
 Repository
 
 ```text
@@ -621,98 +399,6 @@ Currently building practical AI applications using modern LLM frameworks.
 - Tool Calling
 - Vector Databases
 
----
-
-Upcoming Projects
-
-- AI Resume Reviewer
-- GitHub AI Assistant
-- Documentation Generator
-- AI Code Reviewer
-- Research Assistant
-- Personal Knowledge Base
-
----
-
-# 💻 DSA Repository
-
-My collection of algorithm implementations and interview solutions.
-
-### Contents
-
-- Arrays
-- Strings
-- Linked List
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy
-- Sliding Window
-- Binary Search
-- Heap
-- Trie
-- Segment Tree
-
-Repository
-
-```text
-github.com/<YOUR_USERNAME>/DSA
-```
-
----
-
-# 🏆 Engineering Principles
-
-<div align="center">
-
-| Principle | Description |
-|-----------|-------------|
-| Clean Code | Readable and maintainable |
-| Scalability | Designed for growth |
-| Security | Authentication-first approach |
-| Performance | Optimized algorithms |
-| Modularity | Reusable components |
-| Testing | Reliable software |
-| Documentation | Developer-friendly |
-| Continuous Learning | Improve every day |
-
-</div>
-
----
-
-## 📈 Project Roadmap
-
-```text
-✔ StackAudit
-
-████████████████████░░
-
-80%
-
-✔ SmartHelper
-
-███████████████░░░░░░░
-
-65%
-
-✔ Digital Study Center
-
-██████████░░░░░░░░░░░░
-
-45%
-
-✔ AI Agent Suite
-
-██████░░░░░░░░░░░░░░░░
-
-30%
-
-✔ Secure Authentication
-
-██████████████████░░░░
-
-90%
-```
 
 ---
 
@@ -729,15 +415,15 @@ github.com/<YOUR_USERNAME>/DSA
 
 ## 💻 GitHub Overview
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santlaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_USERNAME>&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Santlaj&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santlaj&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=<YOUR_USERNAME>&theme=tokyonight"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santlaj&theme=tokyonight"/>
 
 </div>
 
@@ -747,7 +433,7 @@ github.com/<YOUR_USERNAME>/DSA
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_USERNAME>&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Santlaj&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -757,7 +443,7 @@ github.com/<YOUR_USERNAME>/DSA
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Santlaj/Santlaj/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -769,7 +455,7 @@ github.com/<YOUR_USERNAME>/DSA
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=<YOUR_USERNAME>&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Santlaj&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 
 </div>
 
@@ -779,7 +465,7 @@ github.com/<YOUR_USERNAME>/DSA
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_USERNAME>&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santlaj&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -789,15 +475,15 @@ github.com/<YOUR_USERNAME>/DSA
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=<YOUR_USERNAME>&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santlaj&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=<YOUR_USERNAME>&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santlaj&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=<YOUR_USERNAME>&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santlaj&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=<YOUR_USERNAME>&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santlaj&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
@@ -809,7 +495,7 @@ github.com/<YOUR_USERNAME>/DSA
 
 ## LeetCode
 
-<img width="80%" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains+Mono&ext=contest"/>
+<img width="80%" src="https://leetcard.jacoblin.cool/Santlaj?theme=dark&font=JetBrains+Mono&ext=contest"/>
 
 </div>
 
@@ -821,112 +507,12 @@ github.com/<YOUR_USERNAME>/DSA
 
 | Platform | Profile |
 |-----------|----------|
-| 🟠 LeetCode | https://leetcode.com/u/YOUR_LEETCODE_USERNAME |
-| 🔵 Codeforces | https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME |
-| 🟤 CodeChef | https://www.codechef.com/users/YOUR_CODECHEF_USERNAME |
-| 🟢 GitHub | https://github.com/<YOUR_USERNAME> |
+| 🟠 LeetCode | https://leetcode.com/u/Santlaj |
+| 🔵 Codeforces | https://codeforces.com/profile/Santlaj |
+| 🟤 CodeChef | https://www.codechef.com/users/santlaj |
+| 🟢 GitHub | https://github.com/Santlaj |
 
 </div>
-
----
-
-# 📈 Problem Solving Journey
-
-```text
-Arrays                     ████████████████████
-
-Strings                    ███████████████████
-
-Linked List                ██████████████████░
-
-Stack                      █████████████████░░
-
-Queue                      ████████████████░░░
-
-Trees                      ██████████████░░░░░
-
-BST                        ██████████████░░░░░
-
-Heap                       ████████████░░░░░░░
-
-HashMap                    █████████████████░░
-
-Binary Search              █████████████████░░
-
-Sliding Window             ███████████████░░░░
-
-Recursion                  ███████████████░░░░
-
-Backtracking               ███████████░░░░░░░░
-
-Graphs                     ██████████░░░░░░░░░
-
-Trie                       ████████░░░░░░░░░░░
-
-Dynamic Programming        ███████░░░░░░░░░░░░
-
-Segment Tree               █████░░░░░░░░░░░░░░
-
-System Design              ██████░░░░░░░░░░░░░
-```
-
----
-
-# 🎖️ Developer Metrics
-
-<div align="center">
-
-| Metric | Status |
-|---------|--------|
-| Backend Development | ⭐⭐⭐⭐⭐ |
-| REST APIs | ⭐⭐⭐⭐⭐ |
-| Database Design | ⭐⭐⭐⭐☆ |
-| Authentication | ⭐⭐⭐⭐⭐ |
-| C++ | ⭐⭐⭐⭐⭐ |
-| Java | ⭐⭐⭐⭐☆ |
-| SQL | ⭐⭐⭐⭐☆ |
-| JavaScript | ⭐⭐⭐⭐☆ |
-| TypeScript | ⭐⭐⭐☆☆ |
-| AI Engineering | ⭐⭐⭐☆☆ |
-| Docker | ⭐⭐☆☆☆ |
-| AWS | ⭐☆☆☆☆ |
-
-</div>
-
----
-
-# 📈 Development Activity
-
-```text
-Backend Development      ████████████████████████
-
-Algorithms               ████████████████████
-
-Database Design          █████████████████
-
-Open Source              ███████████
-
-AI Engineering           ███████████
-
-Cloud Computing          ███████
-
-DevOps                   ██████
-
-System Design            █████
-```
-
----
-
-# 📌 Current Engineering Goals
-
-- 🚀 Reach **500+ LeetCode** problems
-- 🏗️ Build **5 production-grade backend projects**
-- 🐳 Master Docker
-- ☁️ Learn AWS
-- 📚 Master Spring Boot
-- 🤖 Build AI Agents
-- 🌍 Contribute to Open Source
-- 💼 Secure an SDE Internship
 
 ---
 
@@ -949,26 +535,6 @@ System Design            █████
 
 ---
 
-# 🎯 Engineering Roadmap
-
-```mermaid
-flowchart LR
-
-A[C++] --> B[Data Structures]
-B --> C[Algorithms]
-C --> D[Backend Development]
-D --> E[Databases]
-E --> F[Authentication]
-F --> G[REST APIs]
-G --> H[System Design]
-H --> I[Cloud Computing]
-I --> J[DevOps]
-J --> K[AI Engineering]
-K --> L[Open Source]
-L --> M[Software Engineer]
-```
-
----
 
 # ⚙️ Backend Development Roadmap
 
@@ -993,218 +559,23 @@ L --> M[Software Engineer]
 
 ---
 
-# 🧠 Computer Science Fundamentals
-
-<div align="center">
-
-| Subject | Status |
-|---------|--------|
-| Data Structures | ⭐⭐⭐⭐⭐ |
-| Algorithms | ⭐⭐⭐⭐☆ |
-| Object-Oriented Programming | ⭐⭐⭐⭐⭐ |
-| Operating Systems | ⭐⭐⭐⭐⭐ |
-| Database Management Systems | ⭐⭐⭐⭐☆ |
-| Computer Networks | ⭐⭐⭐⭐☆ |
-| SQL | ⭐⭐⭐⭐☆ |
-| Software Engineering | ⭐⭐⭐⭐☆ |
-| System Design | ⭐⭐☆☆☆ |
-
-</div>
-
----
-
-# 🚀 Current Learning
-
-### Backend
-
-- Spring Boot
-- Advanced REST APIs
-- API Versioning
-- Rate Limiting
-- Redis
-- Docker
-- Kubernetes
-
----
-
-### AI Engineering
-
-- Agentic AI
-- LangGraph
-- MCP
-- OpenAI SDK
-- Prompt Engineering
-- RAG
-- Multi-Agent Systems
-- Vector Databases
-
----
-
-### Cloud
-
-- AWS EC2
-- AWS S3
-- IAM
-- Lambda
-- Docker Deployment
-- CI/CD
-
----
-
-# 📜 Certifications
-
-| Certification | Status |
-|---------------|--------|
-| C Programming | ✅ |
-| Introduction to AI & ML | ✅ |
-| Oracle Agentic AI Foundations | 🔄 In Progress |
-| Spring Boot | 🟡 Planned |
-| AWS Cloud Practitioner | 🟡 Planned |
-
----
-
-# 💼 Experience
-
-## 👨‍💻 Personal Projects
-
-I focus on developing real-world software that emphasizes:
-
-- Clean Architecture
-- Secure Authentication
-- Scalable APIs
-- Database Design
-- Performance
-- Software Engineering Principles
-
----
-
-## 🌍 Open Source
-
-Current Goals
-
-- Make regular GitHub contributions
-- Contribute to backend projects
-- Improve documentation
-- Participate in Hacktoberfest
-- Publish reusable developer tools
-
----
-
-# 🏆 2026 Milestones
-
-```text
-✅ 500+ LeetCode Problems
-
-████████████████████░░
-
-✅ Build 5 Major Projects
-
-███████████████░░░░░░░
-
-✅ Master Backend
-
-████████████████░░░░░░
-
-✅ Learn AI Agents
-
-███████████░░░░░░░░░░░
-
-✅ Open Source
-
-████████░░░░░░░░░░░░░░
-
-✅ Internship
-
-██████░░░░░░░░░░░░░░░░
-```
-
----
-
-# 📚 Engineering Philosophy
-
-> **Code should be easy to understand, easy to maintain, and difficult to break.**
-
-I believe software engineering is not about writing the most code—it's about designing reliable systems that solve real problems.
-
-Every project I build follows these principles:
-
-- Clean Code
-- Scalability
-- Security First
-- Maintainability
-- Documentation
-- Simplicity
-- Performance
-- Continuous Improvement
-
----
-
-# 📖 Development Workflow
-
-```mermaid
-flowchart LR
-
-Idea
-
--->
-
-Research
-
--->
-
-Architecture
-
--->
-
-Development
-
--->
-
-Testing
-
--->
-
-Deployment
-
--->
-
-Maintenance
-
--->
-
-Optimization
-```
-
----
-
-# ❤️ Outside of Coding
-
-- 📚 Reading technical blogs
-- 🧩 Solving DSA problems
-- 🤖 Exploring AI
-- 🌍 Learning new technologies
-- 🚀 Building side projects
-- 🎯 Improving every day
-
----
-
 # 📬 Let's Connect
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:santlaj2006@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/santlaj-kumar-mehta-23541a320/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Santlaj">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE">
+<a href="https://leetcode.com/Santlaj">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
