@@ -50,6 +50,15 @@ Currently I'm working toward becoming a strong **Backend Software Engineer** whi
 
 ---
 
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Santlaj&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
 
 # 🎯 2026 Goals
 
@@ -128,7 +137,6 @@ A centralized educational platform helping students organize notes, assignments,
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,sql&theme=dark" />
 </p>
 
----
 
 ## 🎨 Frontend Development
 
@@ -136,7 +144,6 @@ A centralized educational platform helping students organize notes, assignments,
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite&theme=dark" />
 </p>
 
----
 
 ## ⚙️ Backend Development
 
@@ -144,7 +151,6 @@ A centralized educational platform helping students organize notes, assignments,
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" />
 </p>
 
----
 
 ## 🗄️ Databases
 
@@ -152,7 +158,6 @@ A centralized educational platform helping students organize notes, assignments,
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma,supabase,firebase&theme=dark" />
 </p>
 
----
 
 ## ☁️ Cloud & DevOps
 
@@ -160,7 +165,6 @@ A centralized educational platform helping students organize notes, assignments,
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,netlify,githubactions&theme=dark" />
 </p>
 
----
 
 ## 🤖 AI & Machine Learning
 
@@ -180,7 +184,6 @@ A centralized educational platform helping students organize notes, assignments,
 
 </p>
 
----
 
 ## 🔧 Developer Tools
 
@@ -219,196 +222,6 @@ A centralized educational platform helping students organize notes, assignments,
 </div>
 
 ---
-# 🚀 Featured Projects
-
----
-
-# ⭐ Flagship Project
-
-## 🔷 StackAudit
-
-> **Enterprise-grade auditing and compliance platform for modern applications.**
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Status-In%20Development-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Framework-Express-000000?style=for-the-badge&logo=express"/>
-
-<img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Auth-BetterAuth-blue?style=for-the-badge"/>
-
-</p>
-
-### 📖 Overview
-
-StackAudit is a backend-first platform built to simplify audit logging, authentication, authorization, and compliance tracking. The project emphasizes scalability, clean architecture, security, and maintainability.
-
-
----
-
-### ✨ Highlights
-
-- JWT Authentication
-- Better Auth Integration
-- RBAC
-- Audit Logging
-- Secure REST APIs
-- Database Relationships
-- Prisma ORM
-- Middleware Pipeline
-- Error Handling
-- Validation
-- TypeScript
-- Clean Architecture
-
----
-
-### 📂 Repository
-
-```text
-github.com/<YOUR_USERNAME>/StackAudit
-```
-
----
-
-# 🔥 SmartHelper
-
-> AI-powered helper booking platform.
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Backend-Express-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge"/>
-
-</p>
-
-### Features
-
-- Live Location
-- Auto Assignment
-- Role Authentication
-- Service Booking
-- Availability Tracking
-- Rating System
-- Admin Dashboard
-- Secure APIs
-
-
----
-
-### Tech Stack
-
-- Node.js
-- Express
-- PostgreSQL
-- JWT
-- Supabase
-- Leaflet Maps
-
----
-
-### Repository
-
-```text
-github.com/<YOUR_USERNAME>/SmartHelper
-```
-
----
-
-# 📚 Digital Study Center
-
-> One platform for students to manage everything.
-
-### Features
-
-- Notes
-- Assignments
-- Study Planner
-- Attendance
-- Timetable
-- Dashboard
-- Resources
-- Progress Tracking
-
-
----
-
-### Tech Stack
-
-- React
-- Node.js
-- Express
-- PostgreSQL
-
----
-
-Repository
-
-```text
-github.com/<YOUR_USERNAME>/DigitalStudyCenter
-```
-
----
-
-# 🔐 Authentication System
-
-A reusable authentication module for backend applications.
-
-### Includes
-
-- JWT
-- Refresh Tokens
-- Password Hashing
-- Authorization
-- Session Handling
-- Email Verification
-- Forgot Password
-- OAuth Ready
-
----
-
-Repository
-
-```text
-github.com/<YOUR_USERNAME>/SecureAuth
-```
-
----
-
-# 🤖 AI Agent Projects
-
-Currently building practical AI applications using modern LLM frameworks.
-
-### Learning
-
-- Oracle Agentic AI
-- LangGraph
-- MCP
-- OpenAI SDK
-- RAG
-- Multi-Agent Systems
-- Tool Calling
-- Vector Databases
-
-
----
-
-<div align="center">
-
-### 🚀 Every project is built with scalability, clean architecture, and production-ready engineering practices in mind.
-
-</div>
-
----
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -424,16 +237,6 @@ Currently building practical AI applications using modern LLM frameworks.
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santlaj&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santlaj&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Santlaj&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -459,15 +262,6 @@ Currently building practical AI applications using modern LLM frameworks.
 
 </div>
 
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santlaj&theme=github-compact&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -495,7 +289,7 @@ Currently building practical AI applications using modern LLM frameworks.
 
 ## LeetCode
 
-<img width="80%" src="https://leetcard.jacoblin.cool/Santlaj?theme=dark&font=JetBrains+Mono&ext=contest"/>
+<img width="60%" src="https://leetcard.jacoblin.cool/Santlaj?theme=dark&font=JetBrains+Mono&ext=contest"/>
 
 </div>
 
@@ -530,30 +324,6 @@ Currently building practical AI applications using modern LLM frameworks.
 <div align="center">
 
 > *"I don't just build applications — I engineer scalable, maintainable systems."*
-
-</div>
-
----
-
-
-# ⚙️ Backend Development Roadmap
-
-<div align="center">
-
-| Stage | Technologies |
-|--------|--------------|
-| ✅ Fundamentals | C++, Java, OOP, DBMS |
-| ✅ Backend Basics | Node.js, Express |
-| ✅ Database | PostgreSQL, MySQL |
-| ✅ ORM | Prisma |
-| ✅ Authentication | JWT, Better Auth |
-| 🔄 API Design | REST APIs |
-| 🔄 Deployment | Vercel, Render |
-| 🟡 Caching | Redis |
-| 🟡 Containers | Docker |
-| 🟡 Cloud | AWS |
-| 🟡 Microservices | Spring Boot |
-| 🟡 DevOps | Kubernetes |
 
 </div>
 
