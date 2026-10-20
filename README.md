@@ -242,29 +242,6 @@ A centralized educational platform helping students organize notes, assignments,
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Santlaj/Santlaj/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> ⚠️ Requires GitHub Actions.
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Santlaj&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</div>
-
-
----
-
 # 📊 GitHub Summary Cards
 
 <div align="center">
