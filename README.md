@@ -30,8 +30,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Santlaj&style=for-the-badge&color=2563EB"/>
-
 <img src="https://img.shields.io/github/followers/Santlaj?style=for-the-badge&color=2563EB"/>
 
 <img src="https://img.shields.io/github/stars/Santlaj?style=for-the-badge&color=2563EB"/>
