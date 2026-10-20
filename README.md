@@ -234,29 +234,8 @@ A centralized educational platform helping students organize notes, assignments,
 
 <br><br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santlaj&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santlaj&theme=tokyonight"/>
-
 </div>
 
----
-
-# 📊 GitHub Summary Cards
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santlaj&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santlaj&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santlaj&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santlaj&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
 
 ---
 
