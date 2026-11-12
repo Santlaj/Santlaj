@@ -48,30 +48,6 @@ Currently I'm working toward becoming a strong **Backend Software Engineer** whi
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Santlaj&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Reach 500+ LeetCode problems
-- ✅ Build production-grade backend projects
-- ✅ Learn Docker & Kubernetes
-- ✅ Learn Redis
-- ✅ Learn AWS Cloud
-- ✅ Master PostgreSQL
-- ✅ Build AI Agents
-- ✅ Contribute to Open Source
-- ✅ Secure an SDE Internship
-
----
-
 # 💡 What I Believe
 
 > *"Great software isn't built by writing more code—it's built by designing better systems."*
